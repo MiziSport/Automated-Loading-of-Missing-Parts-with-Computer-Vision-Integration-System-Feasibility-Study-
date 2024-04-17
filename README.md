@@ -1,1 +1,7 @@
 # Automated-Loading-of-Missing-Parts-with-Computer-Vision-Integration-System-Feasibility-Study-
+
+Intoduction: This project aims to enhance ECM machine Station 30 by implementing an auto loading system with computer vision integration. The purpose of Station 30 is to inspect for the presence of cannulas (needles) and catheters in the pallet nest. If a missing piece is detected, an indicator will signal, and the station will pause until the operator reloads the missing part and resets the station. However, frequent missing part faults and time wastage have been observed based on the machine control data acquisition system (MCDA/PDA).
+
+To address these issues, we will first develop a Pick-and-Place Module using robot arms to integrate with the conveyor system. Then, we will create a Vision System Module and Software Application to communicate with the micro-controller, enabling seamless interaction with the conveyor system and robot arms. This comprehensive approach will streamline the loading process, reduce faults, and optimize efficiency at Station 30.
+
+Objective: To increase production yield by auto load missing part on the pallet. To improve takt time (the amount of time a manufacturer has per unit to produce enough goods to fulfil customer demand) consistency for station 30. At the same time, reducing cycle time of the product. To improve safety in the workplace by automate the handling use at the station.
